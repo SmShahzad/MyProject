@@ -1,5 +1,5 @@
 Wellcome github 
 
-Hi Shahzad
+My Smart Git Remote Project
 
-repo ko pata chal gaya hahahah
+repo server ko pata nahi
