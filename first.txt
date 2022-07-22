@@ -2,4 +2,4 @@ Wellcome github
 
 My Smart Git Remote Project
 
-repo server ko pata nahi
+repo server is Confirm
