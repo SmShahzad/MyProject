@@ -1,5 +1,1 @@
-I am second file 
-
-Cmd 
-
-changes very good
+SECOND CMD
