@@ -1,1 +1,3 @@
-CMD GOOD
+
+CMD GOOD first
+
