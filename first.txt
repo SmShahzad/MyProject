@@ -1,5 +1,3 @@
 Wellcome github 
 
-My Cmd Git Remote Project
-
-Good changes best your luck
+My Smart Git Remote Project

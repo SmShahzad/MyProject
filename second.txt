@@ -1,5 +1,3 @@
 I am second file 
 
-Cmd 
-
-changes very good
+Smart Git well don
